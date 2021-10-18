@@ -1,0 +1,60 @@
+#img{
+  background-image: url(https://templatebundle.net/templates/dairy-farming-html-template/images/index3_slider_bg1.jpg)
+}
+.abc {
+    font-family: 'Source Sans Pro', sans-serif;
+   font-weight: 700;
+   font-size: 60px;
+   margin: 0;
+   color: white;
+
+}
+.black{
+  background-color: black;
+}
+
+.abcd{
+  color: white;
+}
+
+
+.PG-2{
+  background-color: white;
+}
+
+.text-center{
+   margin-top: -5;
+   margin-bottom: -2px;
+  padding-top: 30px; 
+}
+.pd{
+  padding-bottom: 30px;
+}
+.man{
+  padding: none;
+  background: white;
+   display: flex;
+  align-items: center;
+margin: -20px;
+}
+.logo{
+margin-left: -10px;
+  text-align: left;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.text2{
+  margin-top: 10px;
+}
+.text{
+  margin-top: 10px;
+  font-size: 40px;
+ margin-left: -12px;
+  text-align: left;
+  align-items: center;
+}
+.para{
+  display: inline-block;
+  margin: 25px 32px;
+padding-right: 29px;
+}
